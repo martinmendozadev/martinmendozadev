@@ -16,7 +16,7 @@ Welcome to my GitHub profile. I'm a software developer  and I want to become in 
 - 🌱 I’m currently learning about Data Structures and Algorithms
 - 🤔 I’m looking for help with time management
 - 💬 Ask me about Animals
-- 🏫 I would like teach git at my university
+- 🏫 I would like to teach git at my university
 - ⚡ Fun fact: I sleep a looot!
 <br>
 
