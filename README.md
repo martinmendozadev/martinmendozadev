@@ -1,25 +1,25 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align='justify'>
-Welcome to my GitHub profile. I'm a software developer  and I want to become in a Software Security Engineer to colaborate in bussiness apassionated for web technologies. I enjoy to learn new things everyday.</p>
+Welcome to my GitHub profile. I'm a software developer and I want to become a Security Engineer to collaborate in business with a passion for web technologies.</p>
 
 ![](https://komarev.com/ghpvc/?username=MartinMendozaDev)
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/martinmendozadev"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:martinmendozadev@gmail.com?subject=Hey%20Martin!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://martinmendozaDev"><img src="https://img.shields.io/badge/martinMendoza.dev-0C55D3?style=for-the-badge&logo=internetexplorer&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
 - 🔭 I’m currently coding on this repo: [Money Manager](https://github.com/martinmendozadev/money-manager)
 - 🧑🏽‍💼 I’m currently working at [Entropy](https://entropy.tech/)
-- 🌱 I’m currently learning about Data Structures and Algorithms
+- 🌱 I’m learning about Data Structures and Algorithms
 - 🤔 I’m looking for help with time management
-- 💬 Ask me about Animals
-- 🏫 I would like to teach git at my university
+- 💬 Ask me about animals
+- 🏫 I would like to teach about git at my university
 - ⚡ Fun fact: I sleep a looot!
-<br>
-
+  <br>
 
 <h2 align="center">🔧 Technologies & Tools</h2>
 <p align="center">
@@ -47,7 +47,6 @@ Welcome to my GitHub profile. I'm a software developer  and I want to become in 
 
 </p>
 
-
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MartinMendozaDev&show_icons=true&theme=tokyonight">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=martinMendozaDev&theme=tokyonight&layout=compact">
@@ -56,6 +55,7 @@ Welcome to my GitHub profile. I'm a software developer  and I want to become in 
 
 <div align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MartinMendozaDev&theme=black-ice&fire=6600AF&currStreakNum=6600AF&ring=6600AF&currStreakLabel=6600AF">
+    <br>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MartinMendozaDEv&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
