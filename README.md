@@ -6,9 +6,9 @@ Welcome to my GitHub profile. I'm a software developer and I want to become a Se
 ![](https://komarev.com/ghpvc/?username=MartinMendozaDev)
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/martinmendozadev"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:martinmendozadev@gmail.com?subject=Hey%20Martin!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://martinmendozaDev"><img src="https://img.shields.io/badge/martinMendoza.dev-0C55D3?style=for-the-badge&logo=internetexplorer&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/martinmendozadev" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:martinmendozadev@gmail.com?subject=Hey%20Martin!" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://martinmendozaDev" target="_blank"><img src="https://img.shields.io/badge/martinMendoza.dev-0C55D3?style=for-the-badge&logo=internetexplorer&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
